@@ -1,0 +1,16 @@
+
+{
+  "home_page": "ہوم پیج",
+  "personal_info": "ذاتی معلومات",
+  "name": "نام",
+  "name_hint": "اپنا نام درج کریں",
+  "email": "ای میل",
+  "email_hint": "اپنا ای میل درج کریں",
+  "date_of_birth": "پیدائش کی تاریخ",
+  "required_field": "مطلوب خانہ",
+  "submit_info": "معلومات جمع کروائیں",
+  "about_us":"ہمارے بارے میں",
+  "settings":"ترتیبات",
+  "change_language":"زبان تبدیل کریں",
+  "about":"Lorem Ipsum محض ایک ڈمی متن ہے۔"
+}
